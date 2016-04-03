@@ -1,7 +1,6 @@
 library(plyr) 
 library(reshape2) 
 
-setwd("C://Users//Manji//Dropbox//B files//Coursera//read & clean data//Project//UCI HAR Dataset")
 getwd()
 
 ## Merging the train and test feature datasets
